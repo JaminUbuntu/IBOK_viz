@@ -114,7 +114,6 @@ This project was submitted as part of the **7153CEM – Big Data Analytics and D
 **Institution**: Coventry University  
 📧 Academic Email: [ibokb@coventry.ac.uk](mailto:ibokb@coventry.ac.uk)  
 📧 Personal Email: [benjaminsibok@gmail.com](mailto:benjaminsibok@gmail.com)  
-🔗 GitHub: [JaminUbuntu](https://github.com/JaminUbuntu)
 
 ---
 
